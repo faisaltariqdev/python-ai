@@ -1,0 +1,10 @@
+[project]
+name = "python-ai"
+version = "0.1.0"
+description = "Python for AI"
+readme = "README.md"
+authors = [
+    { name = "Faisal Tariq", email = "faisaltariq042@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = []
