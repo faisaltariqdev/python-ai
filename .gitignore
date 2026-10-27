@@ -51,6 +51,8 @@ coverage.xml
 # Logs
 *.log
 logs/
+chat_history.json
+errors.log
 
 # Editors and OS
 .DS_Store
