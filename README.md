@@ -1,6 +1,6 @@
 # Python for AI
 
-**Name:** Faisal Tariq
+**Name:** Muhammad Faisal
 **Course:** Python for AI
 **Goal:** I will become an AI Agent Developer.
 
